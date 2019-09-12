@@ -1,0 +1,27 @@
+.loginDiv{
+    margin: '50px 30%';
+    min-width:'300px';
+    max-width: '450px';
+}
+.heading{
+    text-align: center;
+    color: #90A4AE;
+}
+.heading1{
+    text-align: center;
+    color: #90A4AE;
+    display: inline;
+    margin-left: 60px
+}
+.paragraph{
+    font-size: 22px;
+    text-align: center;
+    color: #004D40;
+    font-weight: 200px;
+}
+.profile{
+    width: 80px;
+    display: inline;
+    border-radius: 10px;
+    vertical-align: bottom
+}

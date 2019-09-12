@@ -1,0 +1,35 @@
+.product_container1{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0% 30%;
+    margin-top: 10%;
+    width: 900px;
+}
+.products1{
+    width: 220px;
+    height: 100px;
+    line-height: 75px;
+    box-shadow: -5px 5px 2px gray; 
+    /* background-color: #B0BEC5; */
+    /* color: #ffffff */
+    /* border: 2px solid #2c4160; */
+    margin: 1px  auto;
+    font-family: 'Courier New', Courier, monospace
+}
+.BoxName{
+    /* font-weight: 500; */
+    text-align: center;
+}
+.orders{
+    margin: 2% 30%;
+    width: 900px;
+    
+}
+.td{
+    padding: 10px;
+    /* padding-bottom: 0px; */
+    border: 2px solid black;
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+}
